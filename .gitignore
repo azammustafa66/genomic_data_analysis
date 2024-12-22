@@ -1,0 +1,4 @@
+/.venv
+/data/Cell_Lines_Details.xlsx
+/data/Compounds-annotation.csv
+/data/GDSC2-dataset.csv
